@@ -34,7 +34,7 @@ header {
   gap: 20px;
 }
 footer {
-  order: 3;  
+  order: 3;
 }
 
 h1 {
@@ -44,7 +44,6 @@ h1 {
 h3 {
   padding: 1px;
 }
-
 
 .left-text,
 .right-text {
@@ -84,17 +83,15 @@ h3 {
 
 footer span {
   color: white;
-  
 }
 
 footer span a {
-    color: white;
-    padding-left: 5px;
-  }
+  color: white;
+  padding-left: 5px;
+}
 
 footer span a::hover {
   color: rgb(124, 124, 139);
- 
 }
 
 @media (max-width: 600px) {
